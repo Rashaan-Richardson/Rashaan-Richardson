@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Rashaan-Richardson
-- 👀 Everything from my next vacation, to learning a new programming language
-- 🌱 Mastering python, growing in JS, and learning React
-- 💞️ Any and everything
+Experienced Software Engineer blending expertise in development, analytics, and education. Proven success in implementing solutions for educational platforms, leading digitalization efforts for a transit authority, and shaping portfolio analytics software.
+ 
+My proficient languages and frameworks are Python, Django, SQL, React, JavaScript, Pandas, Flask
+
+Languages and frameworks I have a strong familiarity with: Ruby, Ruby on Rails, GO
 - 📫 rashaan.richardson@gmail.com
 
 <!---
