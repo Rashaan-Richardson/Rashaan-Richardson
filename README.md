@@ -3,7 +3,7 @@ Experienced Software Engineer blending expertise in development, analytics, and 
 My proficient languages and frameworks are Python, Django, SQL, React, JavaScript, Pandas, Flask
 
 Languages and frameworks I have a strong familiarity with: Ruby, Ruby on Rails, GO
-- 📫 rashaan.richardson@gmail.com
+- 📫 richardsonconsultinggrp@gmail.com
 
 <!---
 Rashaan-Richardson/Rashaan-Richardson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
